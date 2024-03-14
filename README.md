@@ -1,4 +1,4 @@
-# Github Language Color Axum REST API 
+# Github Language Color REST API 
 This project is a REST API built with Axum, a web framework for Rust based on Tokio and Tower. It provides a simple example of how to create a RESTful service using Axum, including routing, handling JSON requests, managing state, middleware, and more.
 
 ## Description
