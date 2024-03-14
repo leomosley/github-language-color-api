@@ -5,4 +5,7 @@ This project is a REST API built with Axum, a web framework for Rust based on To
 This REST API allows users to retrieve the color associated with a programming language. It provides endpoints for fetching the color of a specific programming language, as well as a general endpoint for usage instructions.
 
 ## Usage
-To retrieve the color for a programming language, make a GET request to /language, where language is the name of the programming language.
+To retrieve the color for a programming language, make a GET request to /language, where language is the name of the programming language. For example: 
+```console
+curl https://github-language-color.shuttleapp.rs/rust
+```
